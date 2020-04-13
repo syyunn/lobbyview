@@ -1,2 +1,5 @@
-# lobbyview
-Research proposal and Working Logs for the Lobbyview project
+# Lobbyview
+
+## Research Proposal
+## Lobby_database
+### Named Entity Disambiguation 
