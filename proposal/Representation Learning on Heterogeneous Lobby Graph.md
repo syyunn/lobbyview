@@ -5,7 +5,7 @@ Research proposal on application of contemporary [GNN (Graph Neural Network)](ht
 ## Table of Contents
 1. [Goals](#Goals)
 2. [On Heterogeneous Graph](#Hetero)
-3. [Research Processs](#)
+3. [Research Processes](#)
 
 ## <a name="Goals"></a> Goals 
 Find best representations for the different components of the ***Lobby Graph*** that well performs downstream tasks, such as "Bill pass prediction", "Interest Group detection(classification)", etc.
