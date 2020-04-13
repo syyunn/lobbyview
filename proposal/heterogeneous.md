@@ -13,4 +13,4 @@ Find best representations on *Lobby Graph* that well performs downstream tasks, 
 Heterogeneous graphs, or heterographs for short, are graphs that contain different types of nodes and edges. 
 
 ### Why Heterographs?
-*Lobby Graph* consists of different types of actors - *lobbyist, legislators, firms* and individuals with different types of edges - *"employed by", "financing", "used to work in", "lobbying for/against"*, etc.
+*Lobby Graph* consists of different types of actors - *lobbyist*, legislators, firms* and individuals with different types of edges - *"employed by", "financing", "used to work in", "lobbying for/against"*, etc.
