@@ -8,7 +8,7 @@ Research proposal on application of contemporary [GNN (Graph Neural Network)](ht
 3. [Research Processes](#)
 
 ## <a name="Goals"></a> Goals 
-Find the best [contextualized representaion](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html) for given subgraph sampled from the ***Lobby Graph*** that well performs downstream tasks, such as "Bill pass prediction", "Interest Group detection or classification", etc.
+Find [contextualized representaion](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html) for given subgraph sampled from the ***Lobby Graph*** that well performs downstream tasks, such as "Bill pass prediction", "Interest Group detection or classification", etc.
 
 ## <a name="Hetero"></a> On Heterogeneous Graph
 ### Definition of Heterogeneous Graph
