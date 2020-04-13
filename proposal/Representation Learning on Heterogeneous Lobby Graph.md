@@ -18,6 +18,8 @@ Heterogeneous graphs are graphs that contain different types of nodes and edges.
 ***Lobby Graph*** consists of different types of actors - *lobbyist, legislators, firms* and individuals with different types of edges - *"employed by", "financing", "used to work in", "lobbying for/against"*, etc. Therefore, the nodes and edges in ***Lobby Graph*** eventually
 have different feature distributions thus we have to prepare different input feature representations for each type of nodes and edges.
 
+* heterogenity means to consider different modalities at the same time
+
 ### Input Feature Representations
 We need to leverage the [node embeddings](http://snap.stanford.edu/proj/embeddings-www/files/nrltutorial-part1-embeddings.pdf) since most of the actors in the ***Lobby Graph*** constitute a subgraph relationship thus we can embed those relationship into a vector so that the vector can well represent the node's characteristics.
 The [metapath2vec](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) is considered with the highest priority to try since the technique is used in the paper, [Heterogeneous Graph Transformer (HGT)](https://arxiv.org/pdf/2003.01332.pdf), which is considered as a primary reference for the research. This paper applied node/edge type dependent [graph attention](https://arxiv.org/pdf/1710.10903.pdf) to the heterograph, [OAG (Open Academic Graph)](https://www.openacademic.ai/oag/), to enable different types of nodes/edges can well [interact, pass and aggregate messages](https://arxiv.org/abs/1704.01212) without being restricted by their different feature distributions.
