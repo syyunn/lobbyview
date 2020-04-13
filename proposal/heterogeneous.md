@@ -1,5 +1,5 @@
 # Representation Learning on Heterogeneous Lobby Graph
-Research proposal on application of contemporary GNN (Graph Neural Network) techniques on ***Lobby Graph***
+Research proposal on application of contemporary GNN (Graph Neural Network) techniques on ***Lobby Graph***. ***Lobby Graph*** refers to all data collected and structured in [lobby_database](https://github.com/insongkim/lobby_database)
 
 ## Table of Contents
 1. [Goals](#Goals)
@@ -23,3 +23,15 @@ The [metapath2vec](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-m
  
 
 ## <a name="Process"></a> Research Process
+### Research Design Level
+ - [ ] Determine <ins>downstream task</ins> - such as prediction of bill pass
+ - [ ] Deterimne <ins>input arguments</ins> : Upon given downstream task, determine which nodes and edges will be used to train <ins>the downstream task</ins>. This process may require domain knowledge to successfully train the model. For example, more money could positively affect the lobbying result as the interest group wants, however, there might be more renowned essential factors for successful lobbying among lobbyists.
+### Technical Level
+
+#### Input Feature Preparations
+ - [ ] Trial run of [metapath2vec](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) on [OAG (Open Academic Graph)](https://www.openacademic.ai/oag/) data as the paper originally implemented.
+ - [ ] Revise Codes to run [metapath2vec](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) on ***Lobby Graph Data*** after determination of downstream task and input arguments for the task.
+
+#### Model Preparation
+ - [ ] Try [Heterogeneous Graph Transformer (HGT)](https://arxiv.org/pdf/2003.01332.pdf) with the input features prepared from the trial run of [metapath2vec](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)  as the paper originally implemented.
+ - [ ] Train [Heterogeneous Graph Transformer (HGT)](https://arxiv.org/pdf/2003.01332.pdf) with the prepared input from the ***Lobby Graph Data***.
