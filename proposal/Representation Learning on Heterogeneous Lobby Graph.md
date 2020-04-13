@@ -23,7 +23,7 @@ We need to leverage the [node embeddings](http://snap.stanford.edu/proj/embeddin
 The [metapath2vec](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) is considered with the highest priority to try since the technique is used in the paper, [Heterogeneous Graph Transformer (HGT)](https://arxiv.org/pdf/2003.01332.pdf), which is considered as a primary reference for the research. This paper applied [self-attentive](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf) technique to the [GNN (Graph Neural Network)](https://arxiv.org/pdf/1812.08434.pdf) to enable different types of nodes/edges can well [interact, pass and aggregate messages](https://arxiv.org/abs/1704.01212) without being restricted by their different feature distributions.
  
 
-## <a name="Process"></a> Research Process
+## <a name="Process"></a> Research Processes
 ### Research Design Level
  - [ ] Determine <ins>downstream task</ins> - such as prediction of [congress bill outcome](http://cs229.stanford.edu/proj2012/CainChuaGampong-PredictingCongressionalBillOutcomes.pdf)
  - [ ] Deterimne <ins>input arguments</ins> : Upon given downstream task, determine which nodes and edges will be used to train <ins>the downstream task</ins>. This process may require domain knowledge to successfully train the model. For example, more money could positively affect the lobbying result as the interest group wants, however, there might be more renowned essential factors for [successful lobbying](https://thehill.com/business-a-lobbying/310282-top-10-lobbying-victories-of-2016) among lobbyists.
