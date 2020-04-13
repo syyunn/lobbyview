@@ -1,6 +1,6 @@
 # Representation Learning on Heterogeneous Lobby Graph
 Research proposal on application of contemporary [GNN (Graph Neural Network)](https://arxiv.org/pdf/1812.08434.pdf) techniques on ***Lobby Graph***. 
-* ***Lobby Graph*** refers to all data collected and structured in [lobby_database](https://github.com/insongkim/lobby_database)
+* ***Lobby Graph*** refers to all graphically structured data available in [lobby_database](https://github.com/insongkim/lobby_database)
 
 ## Table of Contents
 1. [Goals](#Goals)
