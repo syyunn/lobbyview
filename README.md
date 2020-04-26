@@ -1,4 +1,6 @@
 # Lobbyview
+## Questions
+- [ ] Who's actually behind in lobbying activity in congress?
 
 ## Research Proposal
 ### Representation Learning on Heterogeneous Lobby Graph
