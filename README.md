@@ -9,6 +9,9 @@
 - [ ] Accomodate 1) labor unions 2) trade associations 3) influential organization not just companies but these are the main spender on lobbying 
 - [ ] K-street analysis
 
+## Automatic Pipeline
+- [ ] Extract  1) labor unions 2) trade associations 3) influential organization from the LDA report
+
 ## Introductory Concept
 - [ ] Iron Triangle - Interest Group, Congress, Bureaucracy
 
