@@ -7,6 +7,7 @@
 ## Interest Group
 - [ ] Currently we don't have interest groups (well known at least) in database because of the subjectivity issue
 - [ ] Accomodate 1) labor unions 2) trade associations 3) influential organization not just companies but these are the main spender on lobbying 
+- [ ] K-street analysis
 
 ## Introductory Concept
 - [ ] Iron Triangle - Interest Group, Congress, Bureaucracy
