@@ -2,6 +2,7 @@
 ## Questions
 - [ ] Who's actually behind in lobbying activity in congress?
 - [ ] How's the use of media become perversion of government institution?
+- [ ] Who's behind the media's message and content which the consumers credit.
 
 ## Research Proposal
 ### Representation Learning on Heterogeneous Lobby Graph
