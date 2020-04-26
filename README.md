@@ -1,6 +1,7 @@
 # Lobbyview
 ## Questions
 - [ ] Who's actually behind in lobbying activity in congress?
+- [ ] How's the use of media become perversion of government institution?
 
 ## Research Proposal
 ### Representation Learning on Heterogeneous Lobby Graph
