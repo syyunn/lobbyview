@@ -1,7 +1,7 @@
 # Lobbyview
 ## Questions
 - [ ] Who's actually behind in lobbying activity in congress?
-- [ ] How's the use of media become perversion of government institution?
+- [ ] How's the use of media related to the perversion of government institution?
 - [ ] Who's behind the media's message and content which the consumers credit.
 
 ## Research Proposal
