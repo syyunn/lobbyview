@@ -4,6 +4,9 @@
 - [ ] How's the use of media related to the perversion of government institution?
 - [ ] Who's behind the media's message and content which the consumers credit.
 
+## Interest Group
+- [ ] Currently we don't have interest groups (well known at least) in database because of the subjectivity issue
+
 ## Introductory Concept
 - [ ] Iron Triangle - Interest Group, Congress, Bureaucracy
 
