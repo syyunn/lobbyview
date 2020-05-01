@@ -4,8 +4,9 @@
 #### Successful in terms of `Financial Gains`
 - tax reduction
 - subsidies 
-- eased market regulation
-
+- deflect market regulation
+  - deflect price regulation
+  - 
 
 ## Can you connect the security market movement to the ROI of lobby?
 
