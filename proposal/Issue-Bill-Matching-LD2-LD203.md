@@ -11,3 +11,5 @@ in case there exist mixed issues requested to the LobbyingFirm, can we figure ou
 
 -> It’s about political portfolio constructing strategy/skills from the perspective of 
 lobbying - which is basically leveraging the political-domain specific knowledges from its field experience.
+
+![Screen%20Shot%202020-05-08%20at%204.37.54%20PM.png](Screen%20Shot%202020-05-08%20at%204.37.54%20PM.png)
